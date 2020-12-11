@@ -1,4 +1,4 @@
-#viewcontactperson.pyの使い方
+# viewcontactperson.pyの使い方
 罹患者が発生した場合、このプログラムファイルを実行すればその人が滞在した時間中に滞在していた人がリストアップされて出力されます。
 send.pyで設定したGASのURLを記述。
 
